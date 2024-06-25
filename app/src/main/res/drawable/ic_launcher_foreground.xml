@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+
+    <!-- 内波浪1 -->
+    <path
+        android:fillColor="#FF3700B3"
+        android:pathData="M24,12c-6.627,0 -12,5.373 -12,12h4c0,-4.418 3.582,-8 8,-8s8,3.582 8,8h4c0,-6.627 -5.373,-12 -12,-12z"/>
+
+    <!-- 内波浪2 -->
+    <path
+        android:fillColor="#FFBB86FC"
+        android:pathData="M24,18c-3.314,0 -6,2.686 -6,6h4c0,-1.105 0.895,-2 2,-2s2,0.895 2,2h4c0,-3.314 -2.686,-6 -6,-6z"/>
+
+
+
+</vector>
